@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mehmet_can_gunduz_hw3</string>
+    <string name="menu_home">Anasayfa</string>
+    <string name="menu_about_me">Hakkımda</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_contact">İletişim</string>
+    <string name="menu_web">Web</string>
+    <string name="txt_contact">İletişim</string>
+    <string name="main_welcome">Welcome to App</string>
+    <string name="owner_app">This app created by Mehmet Can Gunduz</string>
+</resources>
